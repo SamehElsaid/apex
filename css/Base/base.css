@@ -1,0 +1,633 @@
+.floatL {
+    float: left;
+}
+
+.floatLR {
+    float: right;
+}
+
+.flex {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.flexNowrap {
+    flex-wrap: nowrap;
+}
+
+.justifyCenter {
+    justify-content: center;
+}
+
+.flexSpeceBetween {
+    justify-content: space-between;
+}
+.flexDir{
+    flex-direction: column;
+}
+.stretch{
+    align-items: stretch;
+}
+.flexSpeceEvenly {
+    justify-content: space-evenly;
+}
+
+.alingItems {
+    align-items: center;
+}
+
+.alingItemsend {
+    align-items: flex-end;
+}
+
+.width {
+    width: 50%;
+}
+
+.width40 {
+    width: 40%;
+}
+
+.width47 {
+    width: 47%;
+}
+
+.width60 {
+    width: 60%;
+}
+
+.width41 {
+    width: 41%;
+}
+
+.width55 {
+    width: 55%;
+}
+
+.width33 {
+    width: 25%;
+}
+
+.width20 {
+    width: 20%;
+}
+
+.width80 {
+    width: 80%;
+}
+
+.width30 {
+    width: 32%;
+}
+
+.width3333 {
+    width: 33.33%;
+}
+
+.width70 {
+    width: 70%;
+}
+
+.width100 {
+    width: 100%;
+}
+
+.width15 {
+    width: 15%;
+}
+
+.width20 {
+    width: 20%;
+    text-align: center;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.displayInline {
+    display: inline-block;
+}
+
+.fontfamily {
+    font-family: 'Poppins', sans-serif;
+}
+
+.pos {
+    position: relative;
+    top: -6px;
+}
+
+.positionR {
+    position: relative;
+    z-index: 11111;
+}
+
+.noBorder {
+    border: 0 !important;
+}
+
+.center {
+    text-align: center;
+}
+
+.gap {
+    gap: 20px;
+}
+
+.gap3 {
+    gap: 30px;
+}
+
+.hight {
+    height: 90%;
+}
+
+@media (max-width:300px) {
+    .textCommerical h3 {
+        font-size: 1.25rem !important;
+    }
+
+    .textCommerical {
+        left: 10px !important;
+        transform: translate(-0%, -50%) !important;
+    }
+
+    .commercial {
+        height: 70vh !important;
+    }
+
+    .fontsize2rem {
+        font-size: 1.5rem !important;
+    }
+
+    .fontH1 {
+        font-size: 1rem !important;
+    }
+
+    .fonth2 {
+        font-size: .8rem !important;
+    }
+
+    .info {
+        border-width: 8px !important;
+    }
+
+    .fontsize2rem {
+        font-size: 1rem !important;
+    }
+
+    .fontBig {
+        font-size: 2rem !important;
+    }
+
+    .commercial span {
+        display: block;
+    }
+
+    .circle::after {
+        display: none;
+    }
+}
+
+@media (max-width:500px) {
+    .container {
+        width: 90% !important;
+    }
+
+    .commercial {
+        overflow: hidden;
+    }
+
+    .textCommerical {
+        width: 100%;
+        left: 3% !important;
+        transform: translate(-0%, -50%) !important;
+    }
+
+
+
+    .fact span {
+        display: flex;
+    }
+
+    .topHead {
+        display: none;
+    }
+
+    .links {
+        display: none;
+    }
+
+    .bottomHead .container2 .logo {
+        width: 100%;
+    }
+
+    .textCommerical {
+        max-width: 100%;
+    }
+
+    .textCommerical h3 {
+        font-size: 2.25rem !important;
+
+    }
+
+    .about .container {
+        flex-wrap: wrap;
+
+    }
+
+    .imgAbout {
+        width: 100%;
+        left: 10px;
+
+    }
+
+    .aboutUs {
+        width: 100%;
+        padding: 0 !important;
+    }
+
+    .fact span {
+        width: 100%;
+    }
+
+    .check span {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+
+    .fontsize28rem {
+        font-size: 26px !important;
+    }
+
+    .cleckbox {
+        width: 100%;
+        padding-right: 0 !important;
+        padding-left: 0% !important;
+        margin-bottom: 15px !important;
+    }
+
+    .cleckbox .i {
+        top: -3px;
+    }
+
+    .sercices .container {
+        flex-wrap: wrap;
+    }
+
+    .sercices .hoverColor {
+        width: 100%;
+    }
+
+    .carousel .container {
+        flex-wrap: wrap;
+
+    }
+
+    .carousel .container .col {
+        width: 100%;
+
+    }
+
+    .carousel .container .two {
+        flex-wrap: wrap;
+
+    }
+
+    .expert .control {
+        width: 100%;
+    }
+
+    .controlM {
+        margin-top: 30px;
+    }
+
+    .allOFTeam {
+        flex-wrap: wrap;
+
+    }
+
+    .happy .container {
+        flex-wrap: wrap;
+
+    }
+
+    .happy .col {
+        width: 100%;
+    }
+
+    .happy .two {
+        flex-wrap: wrap;
+        line-height: 2;
+    }
+
+    .width15 {
+        width: 30%;
+    }
+
+    footer .container {
+        flex-wrap: wrap;
+    }
+
+    .width33 {
+        width: 100%;
+    }
+
+    .sercices .container {
+        flex-wrap: wrap;
+    }
+
+    .sercices .container .col {
+        width: 100% !important;
+    }
+}
+
+@media (max-width:786px) {
+    .container {
+        width: 80% !important;
+    }
+
+    .commercial {
+        overflow: hidden;
+    }
+
+    .textCommerical {
+        width: 100%;
+        left: 3% !important;
+        transform: translate(-0%, -50%) !important;
+    }
+
+    .textCommerical h3 {
+        font-size: 2rem;
+
+    }
+
+    .fact span {
+        display: flex;
+    }
+
+    .fact .width33 {
+        width: 50%;
+    }
+
+    .topHead {
+        display: none;
+    }
+
+    .links {
+        display: none;
+    }
+
+    .bottomHead .container2 .logo {
+        width: 100%;
+    }
+
+    .textCommerical {
+        max-width: 100%;
+    }
+
+    .textCommerical h3 {
+        font-size: 2.25rem;
+
+    }
+
+    .check {
+        justify-content: space-between;
+    }
+
+    .check .cleckbox {
+        width: 46%;
+    }
+
+    .about .container {
+        flex-wrap: wrap;
+
+    }
+
+    .imgAbout {
+        width: 100%;
+        left: 10px;
+
+    }
+
+    .aboutUs {
+        width: 100%;
+        padding: 0 !important;
+    }
+
+    .fact span {
+        width: 100%;
+    }
+
+    .check span {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+
+    .fontsize28rem {
+        font-size: 26px !important;
+    }
+
+    .cleckbox {
+        width: 100%;
+        padding-right: 0 !important;
+        padding-left: 0% !important;
+        margin-bottom: 15px !important;
+    }
+
+    .cleckbox .i {
+        top: -3px;
+    }
+
+    .sercices .container {
+        flex-wrap: wrap;
+    }
+
+    .sercices .hoverColor {
+        width: 100%;
+    }
+
+    .carousel .container {
+        flex-wrap: wrap;
+
+    }
+
+    .carousel .container .col {
+        width: 100%;
+
+    }
+
+    .carousel .container .two {
+        flex-wrap: wrap;
+
+    }
+
+    .expert .control {
+        width: 100%;
+    }
+
+    .controlM {
+        margin-top: 30px;
+    }
+
+    .allOFTeam {
+        flex-wrap: wrap;
+
+    }
+
+    .happy .container {
+        flex-wrap: wrap;
+
+    }
+
+    .happy .col {
+        width: 100%;
+    }
+
+    .happy .two {
+        flex-wrap: wrap;
+        line-height: 2;
+    }
+
+    .width15 {
+        width: 30%;
+    }
+
+    footer .container {
+        flex-wrap: wrap;
+    }
+
+    .width33 {
+        width: 100%;
+    }
+
+    .sercices .container {
+        flex-wrap: wrap;
+    }
+
+    .sercices .container .col {
+        width: 100% !important;
+    }
+
+    .happy .two {
+        justify-content: space-between;
+    }
+
+    .happy .textTwo {
+        width: 45%;
+    }
+
+    .mediaScreen {
+        display: block;
+        text-align: center !important;
+    }
+
+    .textRight {
+        margin-top: 20px;
+        text-align: center !important;
+
+    }
+    .ourInput .one{
+        flex-wrap: wrap;
+    }
+}
+
+@media (max-width:991px) {
+    .topHead {
+        display: none;
+    }
+
+    .logo {
+        width: 50% !important;
+    }
+
+    .menuIcon {
+        display: block !important;
+        width: 50%;
+        text-align: right !important;
+        font-size: 1.5rem;
+    }
+    .menuIcon i{
+        padding: 5px 10px;
+        border: 1px solid;
+    }
+    .fontsize2rem{
+        font-size: 1.5rem !important;
+    }
+    .textCommerical {
+        max-width: 100%;
+    }
+    .bottomHead{
+        margin: 15px ;
+    }
+    .bottomHead .links {
+        display: none;
+    }
+    .allbottomHead {
+        padding: 10px 0 !important;
+    }
+    .textCommerical {
+        left: 45% ;
+    }
+
+    .textCommerical h3 {
+        font-size: 3.25rem;
+    }
+
+    .about .container {
+        flex-wrap: wrap;
+    }
+
+    .check {
+        justify-content: space-between;
+    }
+    .about .container{
+        justify-content: space-between;
+    }
+
+    .fact .width33 {
+        width: 50%;
+    }
+
+    .fact span {
+        display: flex;
+    }
+
+    .about .width60,
+    .width40 {
+        width: 100%;
+    }
+
+    .allOFTeam {
+        justify-content: space-between;
+        flex-wrap: wrap;
+    }
+
+    .allOFTeam .row {
+        width: 48%;
+    }
+
+    .happy .container {
+        flex-wrap: wrap;
+    }
+
+    .happy .col {
+        width: 100%;
+    }
+
+    .bgBlack .container {
+        flex-wrap: wrap;
+    }
+
+    .width33 {
+        width: 47%;
+    }
+    .contactOur .container{
+        flex-wrap: wrap;
+    }
+    .contactOur .row{
+        width: 100%;
+    }
+    .contactOur iframe{
+        height: 500px;
+    }
+}

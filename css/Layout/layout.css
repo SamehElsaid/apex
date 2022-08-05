@@ -1,0 +1,213 @@
+.FontSmall{
+    font-size: .875em;
+}
+.padding{
+    padding:  8px  10px;
+}
+.paddingOver10{
+    padding: 10px;
+}
+.paddingOver16{
+    padding: 16px;
+}
+.paddingOver{
+    padding: 20px;
+}
+.paddingOver50{
+    padding: 50px 0;
+}
+.paddingOver100{
+    padding: 100px 0;
+}
+.margin50px {
+    margin: 50px 0;
+}
+.margin50pxbt {
+    margin-bottom: 50px 0;
+}
+.padding25px{
+    padding: 25px 0;
+}
+.paddingOver24{
+    padding: 24px;
+}
+.margin24px{
+    margin: 0  24px;
+}
+.marginTop20px{
+    margin-top: 20px !important;
+}
+.paddingTopBottom{
+    padding: 30px 0;
+}
+.paddingRightLeft{
+    padding: 0 30px ;
+}
+.fontweight400{
+    font-weight: 400;
+}
+.border{
+    border: 1px solid transparent;
+    border-top: 0;
+    border-bottom: 0;
+}
+.noBorderleft{
+    border-left: 0;
+}
+.margin{
+    margin-right: 30px;
+}
+.margin10{
+    margin-right: 10px;
+}
+.margin20{
+    margin-right: 20px;
+}
+.margin20Left{
+    margin-left: 30px;
+}
+.padding16pxOv{
+    padding: 16px 0;
+}
+.marginBotton{
+    margin-bottom: 10px;
+
+}
+.marginBotton20{
+    margin-bottom: 20px;
+
+}
+.marginBotton16{
+    margin-bottom: 16px !important;
+
+}
+.marginBotton8{
+    margin-bottom: 8px !important;
+
+}
+.marginTop{
+    margin-top: 30px;
+
+}
+.marginTop50{
+    margin-top: 50px;
+
+}
+.marginTop20px{
+    margin-top: 24px;
+}
+.marginTop15{
+    margin-top: 15px;
+}
+.marginbottom15{
+    margin-bottom: 15px;
+}
+.margin3rem{
+    margin-bottom: 3rem;
+}
+.marginB50px{
+    margin-bottom: 50px;
+}
+.marginTopBottom{
+    margin: 16px 0;
+}
+.marginTopBottom2{
+    margin: 10px 0;
+}
+.fontH1{
+    font-size: 2rem;
+
+}
+.fontsize2rem{
+    font-size: 2.5rem;
+}
+.fontsize15rem{
+    font-size: 1.5rem;
+}
+.fontsize3rem{
+    font-size: 3rem;
+}
+
+.fontsize28rem {
+    font-size: 38px;
+}
+.fonth2{
+    font-size: 1.25rem;
+    font-weight: 500;
+
+}
+.font16px{
+    font-size: 16px;
+    
+}
+.font13rem{
+    font-size: 18px;
+
+}
+.font14px{
+    font-size: 14px;
+    
+}
+.font15px{
+    font-size: 15px;
+    
+}
+.font20px{
+    font-size: 20px;
+    
+}
+.fontweight500{
+    font-weight: 500;
+
+}
+.fontLarge{
+    font-weight: 700;
+    font-size: 4.25rem;
+
+}
+.fontLarge2{
+    font-weight: 700;
+    font-size: 3.25rem;
+}
+.lineHeght{
+    line-height: 12px;
+
+}
+.linehight{
+    line-height: 1.2;
+}
+.linehight15{
+    line-height: 1.5;
+}
+.fontBig{
+    font-size: 3rem;
+}
+.bold{
+    font-weight: bold;
+}
+.paddingLeft{
+    padding-left: 30px;
+}
+.fontweight600{
+    font-weight: 600;
+}
+.height{
+    height: 450px;
+}
+.fontVery{
+    font-size: 6rem;
+}
+.noPaddingRight{
+    padding-right: 0;
+}
+
+.PaddingRight{
+    padding-right: 10px;
+}
+.paddingLeft10px{
+    padding-left: 10px;
+    
+}
+.textRight{
+    text-align: right;
+}

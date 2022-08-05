@@ -1,0 +1,144 @@
+.pColor {
+    color: #8D9297;
+}
+
+.orange {
+    color: #FDA12B;
+}
+.orangeBg,.hoverColor::after{
+    background-color: #FDA12B;
+}
+.black {
+    color: #182333;
+
+}
+.footer{
+    color: #999999;
+}
+.carousel input,.carousel textarea ,.bgBlack{
+    background-color: #182333;
+}
+.btn a,
+.white {
+    color: #F8F9FA;
+}
+
+.backg1 {
+    background-color: #F8F9FA
+}
+.carousel input::placeholder,.carousel textarea::placeholder{
+    color: #8D9297;
+}
+.fff {
+    color: white;
+}
+
+.border {
+    border-color: #dee2e6;
+}
+
+.links ul li a:hover {
+    color: #FDA12B;
+}
+
+.fact::after,
+.commercial::after,.overlay {
+    background-color: rgba(7, 7, 7, 0.664);
+}
+
+.headAbout::after,
+.circle::after,
+.circle::before {
+    background-color: #FDA12B;
+}
+
+.info {
+    background-color: #FDA12B;
+    border-color: white;
+}
+
+.check {
+    border-color: #dee2e6;
+}
+
+.transparent {
+    color: transparent;
+}
+
+.textStroke {
+    -webkit-text-stroke: 2px #FDA12B
+}
+
+.btn a {
+    background-color: #FDA12B;
+}
+.btn a:hover{
+    background-color: #fdaf4b;
+    border-color:#fdaa40 ;
+}
+
+.hoverColor:hover .textSer h3{
+    color: white ;
+}
+.hoverColor:hover .textSer p{
+    color: white ;
+}
+.hoverColor:hover .textSer a{
+    color: white ;
+}
+.allOFTeam .col .text{
+    background: white;
+}
+.borderBottom20::after{
+    background-color: #FDA12B;
+}
+.cli .i{
+    border: 2px solid #FDA12B;
+}
+.cli .i:hover{
+    background-color: #FDA12B;
+    color: white;
+}
+footer .sec .socails .iconsSocail{
+    border-color: #FDA12B;
+}
+footer .sec .socails .iconsSocail i{
+    color: #FDA12B;
+}
+footer .sec .socails .iconsSocail:hover{
+    background-color: #FDA12B;
+}
+footer .sec .socails .iconsSocail:hover i{
+    color: #fff;
+}
+footer ul li:hover a{
+    color: #fff;
+}
+footer input{
+    background-color: #182333;
+    border-color: #fff !important;
+
+}
+.btnNew .new{
+    background-color: #FDA12B;
+    border-color: #FDA12B;
+    color: white;
+}
+.btnNew .new:hover{
+    background-color: #fdaf4b;
+    border-color:#fdaa40 ;
+}
+.line{
+    background-color: rgba(256, 256, 256, .1);
+}
+.up{
+    background-color:#FDA12B;
+    color: white;
+}
+.menuIcon i{
+    border-color: rgba(0,0,0,0.1);
+}
+.ourInput button:hover{
+    background-color: #fdaf4b;
+    border-color:#fdaa40 ;
+}
